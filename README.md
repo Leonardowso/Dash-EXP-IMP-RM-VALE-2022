@@ -1,8 +1,9 @@
-# 🚚 Dashboard de Logística e Transporte  
+# ✈🌎 Dashboard de Importações e Exportações de Produtos de Valor Agregado – Cidades de SP (2022) 🌎✈
 
-## 📌 Sobre o Projeto  
-Este projeto apresenta um **dashboard interativo desenvolvido em Power BI** para análise de operações logísticas e de transporte.  
-O painel consolida informações de custos de frete, volumes transportados, prazos de entrega e taxas de ocupação, permitindo **uma visão estratégica e integrada da distribuição**.  
+## 📌 Sobre o Projeto   
+
+Este projeto apresenta dois **dashboards interativos em Power BI**, que analisam as cidades do Estado de São Paulo que mais importaram e exportaram produtos de valor agregado no ano de 2022.
+O objetivo é fornecer **uma visão clara sobre os principais polos econômicos da região e sua relevância no comércio exterior**.
 
 ## 🎯 Objetivos  
 - Otimizar a gestão logística por meio de indicadores visuais.  
@@ -10,22 +11,20 @@ O painel consolida informações de custos de frete, volumes transportados, praz
 - Identificar gargalos operacionais e oportunidades de melhoria.  
 
 ## 📊 Principais Indicadores  
-- **Custo Total de Frete**  
-- **Volume Transportado por Cliente e Fábrica**  
-- **Prazo Médio de Entrega**  
-- **Média de Pallets Transportados**  
-- **Taxa de Ocupação por Veículo e Cliente**  
-- **Distribuição Geográfica das Entregas**  
 
-## 💡 Benefícios  
-- Redução de custos operacionais com base em dados reais.  
-- Análises mais rápidas e precisas para gestores de transporte.  
-- Melhor utilização da capacidade de fábricas e veículos.  
-- Transparência no acompanhamento da performance logística.  
+### Dashboard de Importações
+- **Ranking das cidades que mais importaram em 2022**
+- **Valor total importado por cidade**
+- **Comparativo entre regiões metropolitanas**
+
+### Dashboard de Exportações
+- **Ranking das cidades que mais exportaram em 2022**
+- **Valor total exportado por cidade**
+- **Participação no total estadual**
+ 
 
 ## 🛠️ Tecnologias Utilizadas  
-- **Power BI** para modelagem e visualização dos dados.  
-- **Pithon**  para limpeza, modelagem e analises de dados.  
+- **Power BI** para modelagem e visualização dos dados.    
 
 ## 📷 Prints do Dashboard  
 ### Otimização de Transporte  
@@ -40,12 +39,6 @@ O painel consolida informações de custos de frete, volumes transportados, praz
 ### Análise de Ocupação
 ![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria.jpg)
 
-## 💻 Código em Python  
-O tratamento de dados foi realizado em Python. Você pode acessá-lo de duas formas:  
-
-- [📓 Notebook no Google Colab](https://colab.research.google.com/drive/1ZkoDJb5NU3GrjpKLk0dVDyM30KahotHu?usp=sharing)  
-ou  
-- [📜 Script neste repositório](https://github.com/Leonardowso/Portfolio_power_bi/blob/548f458979719bc1d74f42dce979fbc71f964c13/MODELO_ANALISE_CARGA_API_3_2025.ipynb)   
 
 ---
 ## 📂 Arquivo Power BI  
