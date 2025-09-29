@@ -43,4 +43,4 @@ O objetivo é fornecer **uma visão clara sobre os principais polos econômicos 
 
 ---
 🖥🎲 Este projeto faz parte da grade de graduação da FATEC 1°semestre
-**[link para o GITHUB](https://github.com/WorkLog1M/Mapeamento.git) 
+**[link para o GITHUB](https://github.com/WorkLog1M/Mapeamento.git)**
