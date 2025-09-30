@@ -6,13 +6,13 @@ Este projeto apresenta dois **dashboards interativos em Power BI**, que analisam
 O objetivo é fornecer **uma visão clara sobre os principais polos econômicos da região e sua relevância no comércio exterior**.
 Este projeto se dividiu em 3 focos de analises **nacional, estadual e local** para cada cenario foi realizado o mesmo processo de analise de produtos de alto valor e baixo peso (valor agregado), o intuito dessa analise é evidenciar o potencial fluxo de cargas no Aeroporto SJK em São José dos Campos.
 
-## Nacional
+## 🌎 Nacional
+![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/64806948f873d89d5c4bb83307a1501fe689ed0c/imp%20nacional%202022.jpg)
 
-## Estadual
+## 🚢 Estadual
 
 ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/DASH%20TOP%20IMP%20NACIONAL%202022.jpg)
 ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/DASH%20TOP%20EXP%20SP.jpg)
-
 
 
 ## 🎯 Objetivos  
