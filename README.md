@@ -1,4 +1,4 @@
-# ✈🌎 Dashboard de Importações e Exportações de Produtos de Valor Agregado – Cidades de SP (2022) 🌎✈
+# ✈🌎 Dashboard de Importações e Exportações de Produtos de Valor Agregado – Cidades RMVALE (2022) 🌎✈
 
 ## 📌 Sobre o Projeto   
 
