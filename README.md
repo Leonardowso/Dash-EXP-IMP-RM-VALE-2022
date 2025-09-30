@@ -4,6 +4,16 @@
 
 Este projeto apresenta dois **dashboards interativos em Power BI**, que analisam as cidades da Região Metropolitana do Vale do Paraiba que mais importaram e exportaram produtos de valor agregado no ano de 2022.
 O objetivo é fornecer **uma visão clara sobre os principais polos econômicos da região e sua relevância no comércio exterior**.
+Este projeto se dividiu em 3 focos de analises **nacional, estadual e local** para cada cenario foi realizado o mesmo processo de analise de produtos de alto valor e baixo peso (valor agregado), o intuito dessa analise é evidenciar o potencial fluxo de cargas no Aeroporto SJK em São José dos Campos.
+
+## Nacional
+
+## Estadual
+
+![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/DASH%20TOP%20IMP%20NACIONAL%202022.jpg)
+![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/DASH%20TOP%20EXP%20SP.jpg)
+
+
 
 ## 🎯 Objetivos  
 - Otimizar a gestão logística por meio de indicadores visuais.  
@@ -16,13 +26,14 @@ O objetivo é fornecer **uma visão clara sobre os principais polos econômicos 
 - **Ranking das cidades que mais importaram em 2022**
 - **Valor total importado por cidade**
 - **Comparativo entre regiões metropolitanas**
- ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/51e92db79ded65068acd2704252bf1f18e96ca40/DASH%20TOP%20IMP%20NACIONAL%202022.jpg)
+ ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/imp%20vale.jpg)
 
 ### Dashboard de Exportações
 - **Ranking das cidades que mais exportaram em 2022**
 - **Valor total exportado por cidade**
-- **Participação no total estadual**
- ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/51e92db79ded65068acd2704252bf1f18e96ca40/DASH%20TOP%20EXP%20SP.jpg)
+- **Mapa da região**
+ ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/exp%20vale%202022.jpg)
+
 
 
 ## 🛠️ Tecnologias Utilizadas  
