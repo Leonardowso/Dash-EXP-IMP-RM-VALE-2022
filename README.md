@@ -41,7 +41,6 @@ Este projeto se dividiu em 3 focos de analises **nacional, estadual e local** pa
 - **Valor total exportado por cidade**
 - **Mapa da região**
  ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/exp%20vale%202022.jpg)
-https://drive.google.com/file/d/1J39-IDol8du7riVavYu0J7ohrAXEKlzG/view?usp=drive_link
 💻 [acessar arquivo no drive](https://drive.google.com/file/d/1J39-IDol8du7riVavYu0J7ohrAXEKlzG/view?usp=drive_link)
 
 ## 🛠️ Tecnologias Utilizadas  
@@ -61,5 +60,5 @@ https://drive.google.com/file/d/1J39-IDol8du7riVavYu0J7ohrAXEKlzG/view?usp=drive
 
 
 ---
-🖥🎲 Este projeto faz parte da grade de graduação da FATEC 1°semestre
+## 🖥🎲 Este projeto faz parte da grade de graduação da FATEC 1°semestre
 **[link para o GITHUB](https://github.com/WorkLog1M/Mapeamento.git)**
