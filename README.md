@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto   
 
-Este projeto apresenta dois **dashboards interativos em Power BI**, que analisam as cidades do Estado de São Paulo que mais importaram e exportaram produtos de valor agregado no ano de 2022.
+Este projeto apresenta dois **dashboards interativos em Power BI**, que analisam as cidades da Região Metropolitana do Vale do Paraiba que mais importaram e exportaram produtos de valor agregado no ano de 2022.
 O objetivo é fornecer **uma visão clara sobre os principais polos econômicos da região e sua relevância no comércio exterior**.
 
 ## 🎯 Objetivos  
