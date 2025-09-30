@@ -9,6 +9,8 @@ Este projeto se dividiu em 3 focos de analises **nacional, estadual e local** pa
 ## 🌎 Nacional
 ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/64806948f873d89d5c4bb83307a1501fe689ed0c/imp%20nacional%202022.jpg)
 
+💻 [acessar arquivo no drive](https://drive.google.com/file/d/19fOyasfQEPWrLqwEdIHPw8tZZwcE7LQ8/view?usp=drive_link)
+
 ## 🚢 Estadual
 
 ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/DASH%20TOP%20IMP%20NACIONAL%202022.jpg)
@@ -32,14 +34,15 @@ Este projeto se dividiu em 3 focos de analises **nacional, estadual e local** pa
 - **Valor total importado por cidade**
 - **Comparativo entre regiões metropolitanas**
  ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/imp%20vale.jpg)
+💻 [acessar arquivo no drive](https://drive.google.com/file/d/1SORJeLOWE_0K3aH_NerKYCEp9jMDei1C/view?usp=drive_link)
 
 ### Dashboard de Exportações
 - **Ranking das cidades que mais exportaram em 2022**
 - **Valor total exportado por cidade**
 - **Mapa da região**
  ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-RM-VALE-2022/blob/48e48b5ab75ee9b6aefcd63cff43d1cbbfcdb0df/exp%20vale%202022.jpg)
-
-
+https://drive.google.com/file/d/1J39-IDol8du7riVavYu0J7ohrAXEKlzG/view?usp=drive_link
+💻 [acessar arquivo no drive](https://drive.google.com/file/d/1J39-IDol8du7riVavYu0J7ohrAXEKlzG/view?usp=drive_link)
 
 ## 🛠️ Tecnologias Utilizadas  
 
